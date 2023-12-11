@@ -1,4 +1,6 @@
 # Logs
+src/img/demo.gif
+
 logs
 *.log
 npm-debug.log*
